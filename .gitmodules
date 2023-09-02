@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/philipp-baumann/philipp-baumann.r-universe.dev
 	branch = HEAD
+[submodule "simplerspec"]
+	path = simplerspec
+	url = https://github.com/philipp-baumann/simplerspec
